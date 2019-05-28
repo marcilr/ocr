@@ -1,0 +1,6 @@
+ocr.txt
+Created Tue May 28 09:07:44 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Optical Character Recognition (ocr)
