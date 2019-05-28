@@ -8,6 +8,10 @@ Optical character recognition application relates links
 
 Links
 =====
+7 Best Free OCR Software Apps to Convert Images Into Text
+Saikat Basu  Updated April 17, 2019 6 minutes
+https://www.makeuseof.com/tag/top-5-free-ocr-software-tools-to-convert-your-images-into-text-nb/
+
 ABBYY Optical Character Recognition Software
 Easy Integration with Back End Systems
 Ready to run OCR technologies compatible
