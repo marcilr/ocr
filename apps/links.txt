@@ -48,3 +48,6 @@ use 300 dpi image files."
 
 o Cuneiform
 https://www.slant.co/topics/4148/~linux-ocr-programs
+
+tesseract-ocr/tesseract
+https://github.com/tesseract-ocr/tesseract/wiki
