@@ -1,0 +1,21 @@
+links.txt
+Created Tue May 28 09:37:44 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Optical character recognition application relates links
+
+
+Links
+=====
+ABBYY Optical Character Recognition Software
+Easy Integration with Back End Systems
+Ready to run OCR technologies compatible
+with your existing accounting and ERP systems.
+Products:
+o FlexiCapture <===
+o FlexiCapture for invoices
+o FlexiCaputure Cloud
+o FineReader Server
+o FindReader
+https://www.theocrexperts.com/?utm_campaignid=912483059&utm_adgroupid=45539210837&utm_adpos=1t2&phone=248-447-0100&utm_source=adwords&utm_keyword=best%20ocr%20software&utm_term=best%20ocr%20software&gclid=Cj0KCQjwuLPnBRDjARIsACDzGL0cb81KKLNS8wdVPcMlEZ4EUNCqPvodPRJNidW0Ohaq3tcnrXTPLBAaAltPEALw_wcB
